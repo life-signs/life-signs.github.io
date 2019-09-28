@@ -2259,6 +2259,13 @@ take precedence the ones in this file. */
 			}
 
 		}
+/* pdf */
+
+.pdf{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /* Image */
 
