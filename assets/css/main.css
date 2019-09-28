@@ -2262,6 +2262,7 @@ take precedence the ones in this file. */
 /* pdf */
 
 .pdf{
+
 	width: 100%;
   margin: 0 auto;
 }
