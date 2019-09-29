@@ -2571,16 +2571,19 @@ take precedence the ones in this file. */
 		}
 
 			table.alt tbody tr td {
+				margin: 0 auto 0 auto;
 				border: solid 1px;
 				border-left-width: 0;
 				border-top-width: 0;
 			}
 
 				table.alt tbody tr td:first-child {
+					margin: 0 auto 0 auto;
 					border-left-width: 1px;
 				}
 
 			table.alt tbody tr:first-child td {
+				margin: 0 auto 0 auto;
 				border-top-width: 1px;
 			}
 
