@@ -1742,7 +1742,7 @@ take precedence the ones in this file. */
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: #563635;
 	}
 
 	blockquote {
@@ -3069,7 +3069,7 @@ take precedence the ones in this file. */
 	}
 
 	#header {
-		background: #1c1c1c;
+		background: #191919;
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		height: 4.25em;
