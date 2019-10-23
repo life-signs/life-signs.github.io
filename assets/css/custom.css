@@ -9,7 +9,7 @@ Just un comment the #banner rule below. */
   background-image: url(../../img/home/img1.jpg);
   background-size: cover;
   color: rgb(56,37,35);
-  text-shadow: 1px 1px 15px #fff;
+  text-shadow: 1px 1px 10px #fff;
   text-align: Right;
   cursor: default;
   padding: 16em 4em 12em 4em;
@@ -21,12 +21,12 @@ Just un comment the #banner rule below. */
 You can call the class whatever you want, but in order for it to work, it needs to be
 added to the button in the index html file as well.*/
 #banner .button.redbtn {
-  background-color: rgba(119, 77, 97, 1);
+  background-color: #F2F2F2;
   box-shadow: none;
 }
 
 #banner .button.redbtn:hover {
-  background-color: rgba(188, 46, 26, .8);
+  background-color: #F2F2F2;
 }
 
 
