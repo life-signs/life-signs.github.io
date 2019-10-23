@@ -3385,9 +3385,9 @@ take precedence the ones in this file. */
 			#banner input[type="button"].alt,
 			#banner button.alt,
 			#banner .button.alt {
-				background-color: transparent;
+				background-color: #774D61;
 				box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
-				color: #fff !important;
+				color: #F2F2F2 !important;
 			}
 
 				#banner input[type="submit"].alt:hover,
