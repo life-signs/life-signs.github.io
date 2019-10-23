@@ -8,8 +8,8 @@ Just un comment the #banner rule below. */
 #banner {
   background-image: url(../../img/home/img1.jpg);
   background-size: cover;
-  color: rgba(255, 255, 255, 0.75);
-  text-shadow: 1px 1px 15px #333;
+  color: rgb(56,37,35);
+  text-shadow: 1px 1px 15px #fff;
   text-align: Right;
   cursor: default;
   padding: 19em 4em 12em 4em;
