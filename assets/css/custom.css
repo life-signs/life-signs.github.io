@@ -40,3 +40,7 @@ added to the button in the index html file as well.*/
   color: #F2F2F2 !important;
 
 }
+
+#shadow{
+  box-shadow: 2px 2px 2px 2px #262626
+}
