@@ -1567,7 +1567,7 @@ take precedence the ones in this file. */
 	}
 
 	body {
-		background: #fff;
+		background: #F2F2F2;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1584,7 +1584,7 @@ take precedence the ones in this file. */
 /* Type */
 
 	body {
-		background-color: #fff;
+		background-color: #F2F2F2;
 		color: #444;
 	}
 
@@ -1895,7 +1895,7 @@ take precedence the ones in this file. */
 	button,
 	.button {
 		background-color: #1abc9c;
-		color: #fff !important;
+		color: #F2F2F2 !important;
 	}
 
 		input[type="submit"]:hover,
@@ -1954,7 +1954,7 @@ take precedence the ones in this file. */
 		button.special,
 		.button.special {
 			background-color: #3498db;
-			color: #fff !important;
+			color: #F2F2F2 !important;
 		}
 
 			input[type="submit"].special:hover,
@@ -2159,8 +2159,8 @@ take precedence the ones in this file. */
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #fff;
-			box-shadow: 0 0 0 1px #fff;
+			border-color: #F2F2F2;
+			box-shadow: 0 0 0 1px #F2F2F2;
 		}
 
 	.select-wrapper:before {
@@ -2180,15 +2180,15 @@ take precedence the ones in this file. */
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #fff;
-		border-color: #fff;
+		background-color: #F2F2F2;
+		border-color: #F2F2F2;
 		color: #1abc9c;
 	}
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #fff;
-		box-shadow: 0 0 0 1px #fff;
+		border-color: #F2F2F2;
+		box-shadow: 0 0 0 1px #F2F2F2;
 	}
 
 	::-webkit-input-placeholder {
@@ -2243,7 +2243,7 @@ take precedence the ones in this file. */
 		display: block;
 		border-radius: 90px 90px 0 0;
 		color: #444;
-		background: #fff;
+		background: #F2F2F2;
 	}
 
 		.hc.up {
@@ -2631,7 +2631,7 @@ take precedence the ones in this file. */
 		}
 
 		.wrapper.style1 {
-			background-color: #fff;
+			background-color: #F2F2F2;
 			color: #444;
 		}
 
@@ -2674,7 +2674,7 @@ take precedence the ones in this file. */
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
 				background-color: #1abc9c;
-				color: #fff !important;
+				color: #F2F2F2 !important;
 			}
 
 				.wrapper.style1 input[type="submit"]:hover,
@@ -2733,7 +2733,7 @@ take precedence the ones in this file. */
 				.wrapper.style1 button.special,
 				.wrapper.style1 .button.special {
 					background-color: #1abc9c;
-					color: #fff !important;
+					color: #F2F2F2 !important;
 				}
 
 			.wrapper.style1 label {
@@ -2777,7 +2777,7 @@ take precedence the ones in this file. */
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background-color: #1abc9c;
 				border-color: #1abc9c;
-				color: #fff;
+				color: #F2F2F2;
 			}
 
 			.wrapper.style1 input[type="checkbox"]:focus + label:before,
@@ -2839,7 +2839,7 @@ take precedence the ones in this file. */
 			}
 
 		.wrapper.style2 {
-			background-color: #fff;
+			background-color: #F2F2F2;
 			color: #444;
 		}
 
@@ -2882,7 +2882,7 @@ take precedence the ones in this file. */
 			.wrapper.style2 button,
 			.wrapper.style2 .button {
 				background-color: #1abc9c;
-				color: #fff !important;
+				color: #F2F2F2 !important;
 			}
 
 				.wrapper.style2 input[type="submit"]:hover,
@@ -2941,7 +2941,7 @@ take precedence the ones in this file. */
 				.wrapper.style2 button.special,
 				.wrapper.style2 .button.special {
 					background-color: #3498db;
-					color: #fff !important;
+					color: #F2F2F2 !important;
 				}
 
 			.wrapper.style2 label {
@@ -2985,7 +2985,7 @@ take precedence the ones in this file. */
 			.wrapper.style2 input[type="radio"]:checked + label:before {
 				background-color: #3498db;
 				border-color: #3498db;
-				color: #fff;
+				color: #F2F2F2;
 			}
 
 			.wrapper.style2 input[type="checkbox"]:focus + label:before,
@@ -3091,7 +3091,7 @@ take precedence the ones in this file. */
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #fff;
+			color: #F2F2F2;
 			font-size: 1.25em;
 			text-decoration: none;
 		}
@@ -3113,7 +3113,7 @@ take precedence the ones in this file. */
 		}
 
 			#header nav a:hover {
-				color: #fff;
+				color: #F2F2F2;
 			}
 
 			#header nav a[href="#menu"] {
@@ -3202,7 +3202,7 @@ take precedence the ones in this file. */
 		-webkit-overflow-scrolling: touch;
 		background: #1c1c1c;
 		box-shadow: none;
-		color: #fff;
+		color: #F2F2F2;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -3283,7 +3283,7 @@ take precedence the ones in this file. */
 			}
 
 			#menu .close:hover {
-				color: #fff;
+				color: #F2F2F2;
 			}
 
 			@media screen and (max-width: 736px) {
@@ -3323,15 +3323,15 @@ take precedence the ones in this file. */
 	}
 
 		#banner input, #banner select, #banner textarea {
-			color: #fff;
+			color: #F2F2F2;
 		}
 
 		#banner a {
-			color: #fff;
+			color: #F2F2F2;
 		}
 
 		#banner strong, #banner b {
-			color: #fff;
+			color: #F2F2F2;
 		}
 
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
@@ -3361,7 +3361,7 @@ take precedence the ones in this file. */
 		#banner button,
 		#banner .button {
 			background-color: #1abc9c;
-			color: #fff !important;
+			color: #F2F2F2 !important;
 		}
 
 			#banner input[type="submit"]:hover,
@@ -3419,12 +3419,12 @@ take precedence the ones in this file. */
 			#banner input[type="button"].special,
 			#banner button.special,
 			#banner .button.special {
-				background-color: #fff;
+				background-color: #F2F2F2;
 				color: #3498db !important;
 			}
 
 		#banner label {
-			color: #fff;
+			color: #F2F2F2;
 		}
 
 		#banner input[type="text"],
@@ -3441,8 +3441,8 @@ take precedence the ones in this file. */
 			#banner input[type="email"]:focus,
 			#banner select:focus,
 			#banner textarea:focus {
-				border-color: #fff;
-				box-shadow: 0 0 0 1px #fff;
+				border-color: #F2F2F2;
+				box-shadow: 0 0 0 1px #F2F2F2;
 			}
 
 		#banner .select-wrapper:before {
@@ -3462,15 +3462,15 @@ take precedence the ones in this file. */
 
 		#banner input[type="checkbox"]:checked + label:before,
 		#banner input[type="radio"]:checked + label:before {
-			background-color: #fff;
-			border-color: #fff;
+			background-color: #F2F2F2;
+			border-color: #F2F2F2;
 			color: #3498db;
 		}
 
 		#banner input[type="checkbox"]:focus + label:before,
 		#banner input[type="radio"]:focus + label:before {
-			border-color: #fff;
-			box-shadow: 0 0 0 1px #fff;
+			border-color: #F2F2F2;
+			box-shadow: 0 0 0 1px #F2F2F2;
 		}
 
 		#banner ::-webkit-input-placeholder {
@@ -3510,7 +3510,7 @@ take precedence the ones in this file. */
 			}
 
 		#banner table th {
-			color: #fff;
+			color: #F2F2F2;
 		}
 
 		#banner table thead {
@@ -3643,7 +3643,7 @@ take precedence the ones in this file. */
 			order: 1;
 			width: 50%;
 			display: block;
-			background: #FFF;
+			background: #F2F2F2;
 			padding: 8em;
 			text-align: right;
 			position: relative;
@@ -3719,7 +3719,7 @@ take precedence the ones in this file. */
 			margin: 0;
 			position: relative;
 			overflow: hidden;
-			background-color: #ffffff;
+			background-color: #F2F2F2fff;
 			background-size: cover;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -3770,7 +3770,7 @@ take precedence the ones in this file. */
 			}
 
 		.post.style1 {
-			background-color: #fff;
+			background-color: #F2F2F2;
 			color: #444;
 		}
 
@@ -3779,7 +3779,7 @@ take precedence the ones in this file. */
 			}
 
 			.post.style1 a {
-				color: #1abc9c;
+				color: #563635;
 			}
 
 			.post.style1 strong, .post.style1 b {
@@ -3809,7 +3809,7 @@ take precedence the ones in this file. */
 			.post.style1 button,
 			.post.style1 .button {
 				background-color: #1abc9c;
-				color: #fff !important;
+				color: #F2F2F2 !important;
 			}
 
 				.post.style1 input[type="submit"]:hover,
@@ -3835,7 +3835,7 @@ take precedence the ones in this file. */
 				.post.style1 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #1abc9c !important;
+					color: #774C60 !important;
 				}
 
 					.post.style1 input[type="submit"].alt:hover,
@@ -3868,7 +3868,7 @@ take precedence the ones in this file. */
 				.post.style1 button.special,
 				.post.style1 .button.special {
 					background-color: #1abc9c;
-					color: #fff !important;
+					color: #F2F2F2 !important;
 				}
 
 			.post.style1.invert {
@@ -3877,19 +3877,19 @@ take precedence the ones in this file. */
 			}
 
 				.post.style1.invert input, .post.style1.invert select, .post.style1.invert textarea {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style1.invert a {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style1.invert strong, .post.style1.invert b {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style1.invert h1, .post.style1.invert h2, .post.style1.invert h3, .post.style1.invert h4, .post.style1.invert h5, .post.style1.invert h6 {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style1.invert blockquote {
@@ -3910,7 +3910,7 @@ take precedence the ones in this file. */
 				.post.style1.invert input[type="button"],
 				.post.style1.invert button,
 				.post.style1.invert .button {
-					background-color: #fff;
+					background-color: #F2F2F2;
 					color: #1abc9c !important;
 				}
 
@@ -3921,7 +3921,7 @@ take precedence the ones in this file. */
 					.post.style1.invert .button.alt {
 						background-color: transparent;
 						box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
-						color: #fff !important;
+						color: #F2F2F2 !important;
 					}
 
 						.post.style1.invert input[type="submit"].alt:hover,
@@ -3953,12 +3953,12 @@ take precedence the ones in this file. */
 					.post.style1.invert input[type="button"].special,
 					.post.style1.invert button.special,
 					.post.style1.invert .button.special {
-						background-color: #fff;
+						background-color: #F2F2F2;
 						color: #1abc9c !important;
 					}
 
 				.post.style1.invert .content {
-					background: #1abc9c;
+					background: #96BDC6;
 				}
 
 					.post.style1.invert .content header p {
@@ -3984,7 +3984,7 @@ take precedence the ones in this file. */
 				}
 
 		.post.style2 {
-			background-color: #fff;
+			background-color: #F2F2F2;
 			color: #444;
 		}
 
@@ -4023,7 +4023,7 @@ take precedence the ones in this file. */
 			.post.style2 button,
 			.post.style2 .button {
 				background-color: #1abc9c;
-				color: #fff !important;
+				color: #F2F2F2 !important;
 			}
 
 				.post.style2 input[type="submit"]:hover,
@@ -4082,7 +4082,7 @@ take precedence the ones in this file. */
 				.post.style2 button.special,
 				.post.style2 .button.special {
 					background-color: #3498db;
-					color: #fff !important;
+					color: #F2F2F2 !important;
 				}
 
 			.post.style2.invert {
@@ -4091,19 +4091,19 @@ take precedence the ones in this file. */
 			}
 
 				.post.style2.invert input, .post.style2.invert select, .post.style2.invert textarea {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style2.invert a {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style2.invert strong, .post.style2.invert b {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style2.invert h1, .post.style2.invert h2, .post.style2.invert h3, .post.style2.invert h4, .post.style2.invert h5, .post.style2.invert h6 {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style2.invert blockquote {
@@ -4125,7 +4125,7 @@ take precedence the ones in this file. */
 				.post.style2.invert button,
 				.post.style2.invert .button {
 					background-color: #1abc9c;
-					color: #fff !important;
+					color: #F2F2F2 !important;
 				}
 
 					.post.style2.invert input[type="submit"]:hover,
@@ -4151,7 +4151,7 @@ take precedence the ones in this file. */
 					.post.style2.invert .button.alt {
 						background-color: transparent;
 						box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
-						color: #fff !important;
+						color: #F2F2F2 !important;
 					}
 
 						.post.style2.invert input[type="submit"].alt:hover,
@@ -4183,7 +4183,7 @@ take precedence the ones in this file. */
 					.post.style2.invert input[type="button"].special,
 					.post.style2.invert button.special,
 					.post.style2.invert .button.special {
-						background-color: #fff;
+						background-color: #F2F2F2;
 						color: #3498db !important;
 					}
 
@@ -4214,7 +4214,7 @@ take precedence the ones in this file. */
 				}
 
 		.post.style3 {
-			background-color: #fff;
+			background-color: #F2F2F2;
 			color: #444;
 		}
 
@@ -4253,7 +4253,7 @@ take precedence the ones in this file. */
 			.post.style3 button,
 			.post.style3 .button {
 				background-color: #1abc9c;
-				color: #fff !important;
+				color: #F2F2F2 !important;
 			}
 
 				.post.style3 input[type="submit"]:hover,
@@ -4312,7 +4312,7 @@ take precedence the ones in this file. */
 				.post.style3 button.special,
 				.post.style3 .button.special {
 					background-color: #9b59b6;
-					color: #fff !important;
+					color: #F2F2F2 !important;
 				}
 
 			.post.style3.invert {
@@ -4321,19 +4321,19 @@ take precedence the ones in this file. */
 			}
 
 				.post.style3.invert input, .post.style3.invert select, .post.style3.invert textarea {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style3.invert a {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style3.invert strong, .post.style3.invert b {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style3.invert h1, .post.style3.invert h2, .post.style3.invert h3, .post.style3.invert h4, .post.style3.invert h5, .post.style3.invert h6 {
-					color: #fff;
+					color: #F2F2F2;
 				}
 
 				.post.style3.invert blockquote {
@@ -4355,7 +4355,7 @@ take precedence the ones in this file. */
 				.post.style3.invert button,
 				.post.style3.invert .button {
 					background-color: #1abc9c;
-					color: #fff !important;
+					color: #F2F2F2 !important;
 				}
 
 					.post.style3.invert input[type="submit"]:hover,
@@ -4381,7 +4381,7 @@ take precedence the ones in this file. */
 					.post.style3.invert .button.alt {
 						background-color: transparent;
 						box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
-						color: #fff !important;
+						color: #F2F2F2 !important;
 					}
 
 						.post.style3.invert input[type="submit"].alt:hover,
@@ -4413,7 +4413,7 @@ take precedence the ones in this file. */
 					.post.style3.invert input[type="button"].special,
 					.post.style3.invert button.special,
 					.post.style3.invert .button.special {
-						background-color: #fff;
+						background-color: #F2F2F2;
 						color: #9b59b6 !important;
 					}
 
@@ -4539,7 +4539,7 @@ take precedence the ones in this file. */
 		}
 
 			#footer a:hover {
-				color: #fff;
+				color: #F2F2F2;
 			}
 
 		#footer .copyright {
